@@ -62,8 +62,5 @@ The project is designed to answer questions such as:
 
 ## ER Diagram
 
-![ER Diagram](ER_Diagram/ecommerce_erd.png)
+![ER Diagram](ecommerce_erd.png)
 
-## Dashboard
-
-![Dashboard](Dashboard/dashboard_screenshot.png)
